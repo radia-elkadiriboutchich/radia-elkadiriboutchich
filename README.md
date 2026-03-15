@@ -63,7 +63,7 @@ Digital Forensics • Pentesting • Cloud
 - **Présidente** du club Altruism (2023-2024)  
 - **Secrétaire générale & Responsable rédaction** Altruism (2022-2023)  
 - **Membre active** de trois clubs + **Animation** de la journée de filière (3ème année)  (2024-2025)  
-- **responsable ** au sein du club Altruism (2025-2026)
+- **Responsable** au sein du club Altruism (2025-2026)
 
 ---
 
