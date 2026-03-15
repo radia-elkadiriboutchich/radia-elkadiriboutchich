@@ -64,8 +64,8 @@ Digital Forensics • Pentesting • Cloud
 
 ## 📊 Statistiques GitHub
 
-![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_USER&show_icons=true&theme=dark)
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USER&layout=compact&theme=dark)
+![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=radia-elkadiriboutchichR&show_icons=true&theme=dark)
+![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=radia-elkadiriboutchich&layout=compact&theme=dark)
 
 ---
 
