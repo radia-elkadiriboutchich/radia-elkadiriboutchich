@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Radia EL KADIRI BOUTCHICH
 
-🎓 **Étudiant Ingénieur en Cybersécurité** à l'ENSAO (SICS)  
-💻 Passionné par la sécurité informatique, le reverse engineering et l'analyse réseau  
+🎓 **Étudiante Ingénieure en Cybersécurité** à l'ENSAO (SICS)  
+💻 Passionnée par la sécurité informatique, le reverse engineering et l'analyse réseau  
 🚀 Toujours en quête de nouveaux défis techniques et de veille en cybersécurité  
 
 ---
