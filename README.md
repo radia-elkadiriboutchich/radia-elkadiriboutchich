@@ -8,20 +8,20 @@
 
 ## 🛠️ Compétences techniques
 
-**Systèmes & Virtualisation**  
-![Linux](https://shields.io) ![Android](https://shields.io) ![Docker](https://shields.io) ![VMware](https://shields.io) ![VirtualBox](https://shields.io) ![Proxmox](https://shields.io)
+🔹 **Systèmes & Virtualisation**  
+`Linux (Ubuntu/Kali)` • `Android` • `Docker` • `VMware` • `VirtualBox` • `Proxmox`
 
-**Réseaux & Analyse de trafic**  
-![Wireshark](https://shields.io) ![tcpdump](https://shields.io) ![GNS3](https://shields.io) ![Cisco](https://shields.io)
+🔹 **Réseaux & Analyse de trafic**  
+`Wireshark` • `tcpdump` • `GNS3` • `Cisco Packet Tracer`
 
-**Sécurité & Outils**  
-![Kali Linux](https://shields.io) ![Wazuh](https://shields.io) ![Suricata](https://shields.io) ![Snort](https://shields.io)  
-![Frida](https://shields.io) ![Java](https://shields.io) ![Apache Prometheus](https://shields.io) ![Grafana](https://shields.io)
+🔹 **Sécurité & Outils**  
+`Kali Linux` • `Wazuh SIEM` • `Suricata (IDS/IPS)` • `Snort` • `Frida Framework` • `JADX` • `Prometheus` • `Grafana` • `Loki`
 
-**Développement & IA**  
-![Python](https://shields.io) ![Bash](https://shields.io) ![C](https://shields.io) ![PyTorch](https://shields.io)
+🔹 **Développement & IA**  
+`Python` • `Bash` • `C` • `PowerShell` • `PyTorch`
 
-**Spécialités SSI** • Cryptographie (AES, RSA, SHA, CKKS) • Sécurité Mobile & Forensics • Apprentissage Fédéré • Blockchain (`Hyperledger Fabric`) • Investigation Numérique (DFIR via Volatility, Sleuthkit)
+🔹 **Spécialités SSI**  
+Cryptographie (AES, RSA, SHA, CKKS) • Sécurité Mobile & Forensics • Apprentissage Fédéré (FedAvg) • Blockchain (`Hyperledger Fabric`) • Investigation Numérique (DFIR via Volatility, Sleuthkit)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:ekbrad04@gmail.com)
+📩 **Email :** [ekbrad04@gmail.com](mailto:ekbrad04@gmail.com)  
+💼 **LinkedIn :** [://linkedin.com](https://://linkedin.com)
 
 ---
