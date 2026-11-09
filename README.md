@@ -10,7 +10,7 @@
       <p>🚀 Currently seeking a <b>4-to-6 Months Final Year Project (PFE)</b> starting February 2027 to solve next-generation cyber defense challenges.</p>
     </td>
     <td valign="top" width="40%" align="center">
-      <img src="https://giphy.com" width="290px" alt="Majestic Cyber Cat Hacker" style="border-radius: 8px;">
+     <img src="https://giphy.com" width="290px" alt="Majestic Cyber Cat Hacker" style="border-radius: 8px;">
     </td>
   </tr>
 </table>
