@@ -10,7 +10,7 @@
       <p>🚀 Currently seeking a <b>4-to-6 Months Final Year Project (PFE)</b> starting February 2027 to solve next-generation cyber defense challenges.</p>
     </td>
     <td valign="top" width="40%" align="center">
-     [<img src="https://giphy.com" width="290px" alt="Majestic Cyber Cat Hacker" style="border-radius: 8px;">](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9iajMyeTZ3NTEzdXZtM3A3bm45OWljc2FhdmduOGE0OHM1dGp6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0mYcI6XqAzYgc9JaAG/giphy.gif)
+      <img src="https://giphy.com" width="260px" alt="Cute Cyber Cat Hacker" style="border-radius: 8px;">
     </td>
   </tr>
 </table>
@@ -45,6 +45,7 @@
 | **🛡️ Distributed SIEM & Automated Containment** | Provisioned a production-grade Wazuh ecosystem integrated with Suricata rulesets. Engineered specialized detection triggers by actively simulating dictionary-based SSH intrusions and reactive remote shells from controlled environments. | `Wazuh`, `Suricata`, `Hydra`, `Netcat`, `Kali Linux` |
 | **📊 Real-Time Volumetric DDoS Shield** | Orchestrated stress-testing scenarios using high-volume `hping3` floods. Deployed Suricata in inline IPS posture for automated drop execution, routed telemetry streams through Prometheus/Loki pipelines, and custom-designed Grafana monitoring grids. | `Suricata (IPS)`, `Prometheus`, `Loki`, `Grafana`, `hping3` |
 | **🏥 Secure Healthcare Network Architecture** | Designed and benchmarked a resilient multi-site healthcare topology. Enforced strict network segmentation via contextual Access Control Lists (ACLs), strict Quality of Service (QoS) boundaries, and persistent host-to-host Python socket tunnels. | `GNS3`, `Cisco Packet Tracer`, `Python Sockets` |
+| **📉 Statistical Data Compression Engine** | Implemented from scratch a complete Huffman statistical coding and compression model to optimize and secure the alignment of telemetry streams before cloud dispatch. | `Python`, `Algorithms` |
 
 ---
 
@@ -55,6 +56,7 @@
 - 🟢 **Hack The Box Academy** – Android Fundamentals  
 
 ---
+
 ## 📍 Location
 Oujda, Oriental, Morocco *(Available for hybrid/remote positions & relocation)*
 
