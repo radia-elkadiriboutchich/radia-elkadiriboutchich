@@ -1,19 +1,17 @@
 # ✨ Radia EL KADIRI BOUTCHICH ✨
 ### 🌐 In cybersecurity, randomness is a myth: every compromise has a cause, every artifact tells a story.
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <p>👋 Welcome! I am a <b>Final-Year Cybersecurity Engineering Student</b> (SICS) at ENSA Oujda, specializing in deep architectural defense, digital forensics, and machine learning applied to threat intelligence.</p>
-      <p>🔍 My technical playground lies between <b>Intrusion Detection (SOC)</b>, reverse engineering system binaries, and building privacy-preserving distributed detection frameworks (Federated Learning & Blockchain).</p>
-      <p>💼 Beyond engineering, my journey as a <b>former Club President</b> has shaped my vision: combining sharp technical rigor with agile leadership to build and protect impactful digital solutions.</p>
-      <p>🚀 Currently seeking a <b>4-to-6 Months Final Year Project (PFE)</b> starting February 2027 to solve next-generation cyber defense challenges.</p>
-    </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://giphy.com" width="260px" alt="Cute Cyber Cat Hacker" style="border-radius: 8px;">
-    </td>
-  </tr>
-</table>
+---
+
+![Cute Cyber Cat Hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9iajMyeTZ3NTEzdXZtM3A3bm45OWljc2FhdmduOGE0OHM1dGp6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0mYcI6XqAzYgc9JaAG/giphy.gif)
+
+👋 Welcome! I am a **Final-Year Cybersecurity Engineering Student** (SICS) at ENSA Oujda, specializing in deep architectural defense, digital forensics, and machine learning applied to threat intelligence.
+
+🔍 My technical playground lies between **Intrusion Detection (SOC)**, reverse engineering system binaries, and building privacy-preserving distributed detection frameworks (Federated Learning & Blockchain).
+
+💼 Beyond engineering, my journey as a **former Club President** has shaped my vision: combining sharp technical rigor with agile leadership to build and protect impactful digital solutions.
+
+🚀 Currently seeking a **4-to-6 Months Final Year Project (PFE)** starting February 2027 to solve next-generation cyber defense challenges.
 
 ---
 
