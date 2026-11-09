@@ -1,70 +1,75 @@
-# 👋 Bonjour, je suis Radia EL KADIRI BOUTCHICH
+# ✨ Radia EL KADIRI BOUTCHICH ✨
+### 🌐 In cybersecurity, randomness is a myth: every compromise has a cause, every artifact tells a story.
 
-🎓 **Élève-Ingénieure en 5e année – Sécurité de l'Information & Cybersécurité (SICS)** à l'ENSAO (Maroc)  
-💻 Spécialisée en **Détection d'intrusion**, **Investigation numérique (DFIR)** et **Analyse du trafic réseau**  
-🚀 Actuellement à la recherche d'un stage de fin d'études (PFE) d'une durée de 4 à 6 mois à partir de février 2027  
-
----
-
-## 🛠️ Compétences techniques
-
-🔹 **Systèmes & Virtualisation**  
-`Linux (Ubuntu/Kali)` • `Android` • `Docker` • `VMware` • `VirtualBox` • `Proxmox`
-
-🔹 **Réseaux & Analyse de trafic**  
-`Wireshark` • `tcpdump` • `GNS3` • `Cisco Packet Tracer`
-
-🔹 **Sécurité & Outils**  
-`Kali Linux` • `Wazuh SIEM` • `Suricata (IDS/IPS)` • `Snort` • `Frida Framework` • `JADX` • `Prometheus` • `Grafana` • `Loki`
-
-🔹 **Développement & IA**  
-`Python` • `Bash` • `C` • `PowerShell` • `PyTorch`
-
-🔹 **Spécialités SSI**  
-Cryptographie (AES, RSA, SHA, CKKS) • Sécurité Mobile & Forensics • Apprentissage Fédéré (FedAvg) • Blockchain (`Hyperledger Fabric`) • Investigation Numérique (DFIR via Volatility, Sleuthkit)
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <p>👋 Welcome! I am a <b>Final-Year Cybersecurity Engineering Student</b> (SICS) at ENSA Oujda, specializing in deep architectural defense, digital forensics, and machine learning applied to threat intelligence.</p>
+      <p>🔍 My technical playground lies between <b>Intrusion Detection (SOC)</b>, reverse engineering system binaries, and building privacy-preserving distributed detection frameworks (Federated Learning & Blockchain).</p>
+      <p>💼 Beyond engineering, my journey as a <b>former Club President</b> has shaped my vision: combining sharp technical rigor with agile leadership to build and protect impactful digital solutions.</p>
+      <p>🚀 Currently seeking a <b>4-to-6 Months Final Year Project (PFE)</b> starting February 2027 to solve next-generation cyber defense challenges.</p>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://giphy.com" width="290px" alt="Majestic Cyber Cat Hacker" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Projets phares
+## 🛠️ Technical Ecosystem
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| **Apprentissage Fédéré Décentralisé & Blockchain** | Conception d'un système collaboratif P2P de détection d'attaques réseau préservant la vie privée (Modèle CNN-BiLSTM, FedAvg). Protection via chiffrement homomorphe CKKS (TenSEAL), confidentialité différentielle (Opacus) et traçabilité sur Hyperledger Fabric. | `PyTorch`, `Hyperledger Fabric`, `Docker`, `TenSEAL`, `Opacus` |
-| **Reverse Engineering – Migration Google** | Analyse de la migration de données Android et des Services Google Play. Rooting via Magisk, décompilation avec JADX/Apktool, étude du protocole Lockdown d'Apple (fichiers Plist) et interception dynamique du chiffrement via Frida. | `Android`, `Frida`, `JADX`, `Magisk`, `Odin3`, `ADB` |
-| **SIEM & Détection d'intrusion** | Déploiement complet d'une stack Wazuh (manager, agent, dashboard) et de Suricata IDS. Test de détection de ping massif, simulation d'attaque par dictionnaire sur SSH (Hydra) et exécution de reverse shell depuis Kali. | `Wazuh`, `Suricata`, `Hydra`, `Netcat`, `Kali Linux` |
-| **Lutte contre les attaques DDoS** | Stack de surveillance et de blocage réseau en temps réel. Simulation d'attaques volumétriques DDoS avec hping3, supervision via Prometheus et Loki, blocage dynamique par Suricata (IPS) et tableau de bord Grafana. | `Suricata (IPS)`, `Prometheus`, `Loki`, `Grafana`, `hping3` |
-| **Attaque MITM et contre-mesure AES** | Interception de trafic réseau simulé sous GNS3 (ARP spoofing et DNS poisoning avec Bettercap et Scapy). Implémentation d'une contre-mesure logicielle de chiffrement symétrique AES en Python. | `Python`, `GNS3`, `Scapy`, `Bettercap`, `Cryptographie` |
-| **Réseau hospitalier sous Packet Tracer** | Conception d'une infrastructure réseau sécurisée complète intégrant le découpage en VLAN, l'accès distant via VPN, le filtrage par ACL et la gestion des politiques de QoS. | `Cisco Packet Tracer`, `VLAN`, `VPN`, `ACL` |
-| **Infrastructure réseau GNS3 & Sockets** | Routage statique/dynamique LAN/WAN avec serveurs DHCP, DNS et Apache. Développement de sockets Python client/serveur avec simulation d'échanges distants (hors LAN) grâce aux architectures de routage GNS3. | `GNS3`, `Python Sockets`, `Routage Réseau` |
-| **Code correcteur Huffman** | Implémentation from scratch de l'algorithme de compression et de codage statistique de Huffman visant à optimiser et sécuriser l'intégrité des flux de données stockés. | `Python` |
+🛡️ **SOC, SIEM & Live Telemetry**  
+`Wazuh SIEM` • `Suricata (IDS/IPS)` • `Snort` • `Prometheus` • `Grafana` • `Loki` • `MITRE ATT&CK Mapping`
+
+🔬 **Digital Forensics & IR (DFIR)**  
+`Volatility (Memory Analysis)` • `Windows Artifacts Investigation (MFT, VSS, Prefetch)` • `Sleuthkit` • `Mobile Forensics`
+
+📡 **Network Security & Infrastructure**  
+`Wireshark` • `tcpdump` • `GNS3 Engine` • `Cisco Packet Tracer` • `VLAN, ACL, & QoS Orchestration` • `Secure VPN Gateways`
+
+🎯 **Reverse Engineering & Offensive Simulation**  
+`Frida Framework (Dynamic Hooking)` • `JADX-GUI` • `Apktool` • `Magisk Android Rooting` • `Kali Linux` • `Scapy` • `Bettercap` • `Hydra` • `Netcat`
+
+🔐 **Crypto, Blockchain & Core Dev**  
+`Python (Advanced Scripting)` • `PyTorch` • `Bash` • `PowerShell` • `C` • `Hyperledger Fabric` • `CKKS Homomorphic Encryption` • `Differential Privacy`
 
 ---
 
-## 🏅 Certifications & Badges
+## 📂 Featured Research & Frameworks
+
+| Architecture / Project | Technical Implementation Breakdown | Primary Stack |
+|:---|:---|:---|
+| **🔒 Privacy-Preserving Collaborative NIDS** | Developed a decentralized peer-to-peer intrusion detection framework. Trained a localized CNN-BiLSTM model on the CIC-IDS dataset, secured node weights using CKKS encryption (TenSEAL) and Differential Privacy (Opacus), and engineered an immutable audit trail over Hyperledger Fabric. | `PyTorch`, `Hyperledger Fabric`, `Docker`, `TenSEAL`, `Opacus` |
+| **🔄 Google Play Services Reverse Engineering** | Conducted an in-depth security analysis of the Google device data migration process and Apple's Lockdown protocol. Built custom JavaScript scripts for runtime cryptographic injection and agnostically hooked the JCA native `javax.crypto.Cipher` class via Frida on a rooted system. | `Android OS`, `Frida Framework`, `JADX`, `Magisk Root`, `ADB` |
+| **🛡️ Distributed SIEM & Automated Containment** | Provisioned a production-grade Wazuh ecosystem integrated with Suricata rulesets. Engineered specialized detection triggers by actively simulating dictionary-based SSH intrusions and reactive remote shells from controlled environments. | `Wazuh`, `Suricata`, `Hydra`, `Netcat`, `Kali Linux` |
+| **📊 Real-Time Volumetric DDoS Shield** | Orchestrated stress-testing scenarios using high-volume `hping3` floods. Deployed Suricata in inline IPS posture for automated drop execution, routed telemetry streams through Prometheus/Loki pipelines, and custom-designed Grafana monitoring grids. | `Suricata (IPS)`, `Prometheus`, `Loki`, `Grafana`, `hping3` |
+| **🏥 Secure Healthcare Network Architecture** | Designed and benchmarked a resilient multi-site healthcare topology. Enforced strict network segmentation via contextual Access Control Lists (ACLs), strict Quality of Service (QoS) boundaries, and persistent host-to-host Python socket tunnels. | `GNS3`, `Cisco Packet Tracer`, `Python Sockets` |
+
+---
+
+## 🏅 Certifications
 
 - 🔴 **Red Hat Academy** – 2025 Program Learner  
 - 🟢 **Hack The Box Academy** – Introduction to Network Traffic Analysis  
 - 🟢 **Hack The Box Academy** – Android Fundamentals  
 
 ---
-## 🌐 Langues
+## 📍 Location
+Oujda, Oriental, Morocco *(Available for hybrid/remote positions & relocation)*
 
-- **Arabe** : Langue maternelle  
-- **Français** : Courant  
-- **Anglais** : Courant  
+## 🤝 Leadership & Community Roles
 
-## 🤝 Engagement associatif
-
-- **Responsable des opérations** – Club Altruism (2025–2026)  
-- **Animation de la journée de filière** – Club Defensys (2025)  
-- **Présidente** – Club Altruism (2023–2024)  
-- **Secrétaire générale & Responsable rédaction** – Club Altruism (2022–2023)
+- **Operations Manager** – Altruism Club (2025–2026)  
+- **Technical Event Host** – Defensys Club (2025)  
+- **President** – Altruism Club (2023–2024)  
+- **General Secretary & Chief Editor** – Altruism Club (2022–2023)
 
 ---
 
-## 📫 Me contacter
+## 📫 Let's Connect!
 
-📩 **Email :** [ekbrad04@gmail.com](mailto:ekbrad04@gmail.com)  
-💼 **LinkedIn :** [://linkedin.com](https://://linkedin.com)
+💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)  
+📩 **Email:** [ekbrad04@gmail.com](mailto:ekbrad04@gmail.com)
 
 ---
