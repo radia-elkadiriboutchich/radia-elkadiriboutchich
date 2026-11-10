@@ -1,11 +1,20 @@
+<div align="center">
+
 # ✨ Radia EL KADIRI BOUTCHICH ✨
-### 🌐 In cybersecurity, randomness is a myth: every compromise has a cause, every artifact tells a story.
+
+### 🌐 *In cybersecurity, randomness is a myth: every compromise has a cause, every artifact tells a story.*
 
 ---
 
-![Cute Cyber Cat Hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9iajMyeTZ3NTEzdXZtM3A3bm45OWljc2FhdmduOGE0OHM1dGp6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0mYcI6XqAzYgc9JaAG/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9iajMyeTZ3NTEzdXZtM3A3bm45OWljc2FhdmduOGE0OHM1dGp6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0mYcI6XqAzYgc9JaAG/giphy.gif" width="300px" alt="Cute Cyber Cat Hacker" style="border-radius: 12px; margin: 20px 0;">
 
-👋 Welcome! I am a **Final-Year Cybersecurity Engineering Student** (SICS) at ENSA Oujda, specializing in deep architectural defense, digital forensics, and machine learning applied to threat intelligence.
+</div>
+
+---
+
+### 👤 About Me
+
+👋 Welcome! I am a **Final-Year Cybersecurity Engineering Student (SICS)** at ENSA Oujda, specializing in deep architectural defense, digital forensics, and machine learning applied to threat intelligence.
 
 🔍 My technical playground lies between **Intrusion Detection (SOC)**, reverse engineering system binaries, and building privacy-preserving distributed detection frameworks (Federated Learning & Blockchain).
 
@@ -67,9 +76,13 @@ Oujda, Oriental, Morocco *(Available for hybrid/remote positions & relocation)*
 
 ---
 
+<div align="center">
+
 ## 📫 Let's Connect!
 
 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)  
 📩 **Email:** [ekbrad04@gmail.com](mailto:ekbrad04@gmail.com)
+
+</div>
 
 ---
