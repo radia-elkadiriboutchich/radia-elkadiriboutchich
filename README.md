@@ -8,25 +8,17 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9iajMyeTZ3NTEzdXZtM3A3bm45OWljc2FhdmduOGE0OHM1dGp6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0mYcI6XqAzYgc9JaAG/giphy.gif" width="260px" alt="Cute Cyber Cat Hacker" style="border-radius: 16px;">
 </p>
 
-<p>
-  <b>Final-Year Cybersecurity Engineering Student (SICS) @ ENSA Oujda</b><br>
-  📍 Oujda, Morocco • <i>Open to Hybrid, Remote & Relocation</i>
-</p>
 
-<p>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:ekbrad04@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+**Final-Year Cybersecurity Engineering Student (SICS) @ ENSA Oujda**  
+📍 Oujda, Morocco • *Open to Hybrid, Remote & Relocation*
+
+🔗 [**LinkedIn Profile**](https://linkedin.com) &nbsp;|&nbsp; 📩 [**ekbrad04@gmail.com**](mailto:ekbrad04@gmail.com)
 
 </div>
 
 ---
 
-## 👤 About Me
+### 👤 About Me
 
 * 🛡️ **Blue Team Mindset:** Final-year Cybersecurity Engineering student passionate about **SOC operations, Threat Detection, Digital Forensics (DFIR)**, and **Mobile Security**.
 * 🤖 **AI & Security:** Deeply interested in **Artificial Intelligence and AI Security**, exploring how to defend intelligent systems and leverage them for anomaly detection.
@@ -36,46 +28,41 @@
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-**🛡️ SOC, Detection & Forensics (DFIR)**  
-`Wazuh SIEM` • `Suricata (IDS/IPS)` • `Snort` • `EDR` • `Volatility` • `Windows Artifacts` • `Sleuthkit` • `Mobile Forensics` • `MITRE ATT&CK`
+* **🛡️ SOC, Detection & Forensics (DFIR)**  
+  `Wazuh SIEM` • `Suricata (IDS/IPS)` • `Snort` • `EDR` • `Volatility` • `Windows Artifacts` • `Sleuthkit` • `Mobile Forensics` • `MITRE ATT&CK`
 
-**📡 Network & Monitoring**  
-`Wireshark` • `tcpdump` • `GNS3` • `Cisco Packet Tracer` • `Prometheus` • `Grafana` • `Loki` • `VLAN / ACL / VPN`
+* **📡 Network & Monitoring**  
+  `Wireshark` • `tcpdump` • `GNS3` • `Cisco Packet Tracer` • `Prometheus` • `Grafana` • `Loki` • `VLAN / ACL / VPN`
 
-**📱 Reverse Engineering & Security Testing**  
-`Frida` • `JADX` • `Apktool` • `Magisk` • `ADB` • `Kali Linux` • `Nmap` • `Hydra` • `Netcat` • `Scapy` • `Bettercap`
+* **📱 Reverse Engineering & Security Testing**  
+  `Frida` • `JADX` • `Apktool` • `Magisk` • `ADB` • `Kali Linux` • `Nmap` • `Hydra` • `Netcat` • `Scapy` • `Bettercap`
 
-**💻 Systems, Code & Fundamentals**  
-![Linux](https://shields.io)
-![Android](https://shields.io)
-![Python](https://shields.io)
-![Bash](https://shields.io)
-![Docker](https://shields.io)
-![PyTorch](https://shields.io)  
-`C` • `PowerShell` • `Cryptography Basics (AES, RSA, TLS)` • `Blockchain Basics (Hyperledger Fabric)`
+* **💻 Systems, Code & Fundamentals**  
+  `Linux (Ubuntu/Kali)` • `Android` • `Python` • `Bash` • `PowerShell` • `C` • `Docker` • `PyTorch` • `Cryptography Basics (AES, RSA, TLS)` • `Blockchain Basics (Hyperledger Fabric)`
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-* 🔒 **Decentralized Federated Learning & Blockchain NIDS** *(2025 – 2026)*  
+* **🔒 Decentralized Federated Learning & Blockchain NIDS** *(2025 – 2026)*  
   Collaborative network intrusion detection system preserving data privacy using a CNN-BiLSTM model (`PyTorch`, `Docker`, `CIC-IDS` dataset), secured with homomorphic encryption (`TenSEAL`), differential privacy (`Opacus`), and traceability via `Hyperledger Fabric`.
 
-* 🔄 **Android Reverse Engineering – Google Device Migration**  
+* **🔄 Android Reverse Engineering – Google Device Migration**  
   Security analysis of Google data migration and Apple's Lockdown protocol. Rooted a test device (`Magisk`), decompiled system APKs (`JADX`, `Apktool`), and wrote dynamic hooking scripts (`Frida`) to inspect cryptographic operations.
 
-* 🛡️ **SIEM Lab & Intrusion Detection**  
+* **🛡️ SIEM Lab & Intrusion Detection**  
   Deployed `Wazuh` (manager/agent/dashboard) alongside `Suricata IDS`. Simulated SSH brute-force attacks (`Hydra`) and reverse shells (`Netcat`) from `Kali Linux` to analyze logs and alerting rules.
 
-* 📊 **Anti-DDoS Monitoring & Mitigation Lab**  
+* **📊 Anti-DDoS Monitoring & Mitigation Lab**  
   Simulated volumetric DDoS floods (`hping3`), configured `Suricata` in inline IPS mode for automated blocking, and built real-time monitoring dashboards with `Prometheus`, `Loki`, and `Grafana`.
 
-* 🌐 **Secure Network Architectures & Python Sockets**  
+* **🌐 Secure Network Architectures & Python Sockets**  
   Designed a segmented hospital network (`VLAN`, `QoS`, `ACL`) on `GNS3` and `Packet Tracer`. Built client/server Python sockets and tested MITM attacks (`ARP spoofing` with `Scapy`/`Bettercap`) mitigated by `AES` encryption.
 
 ---
+
 
 ## 🏅 Certifications & Badges
 
